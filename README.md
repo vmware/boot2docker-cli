@@ -1,3 +1,4 @@
+# VMware has ended active development of this project, this repository will no longer be updated.
 # boot2docker command line management tool
 
 This tool downloads the boot2docker ISO image, creates a VirtualBox virtual
